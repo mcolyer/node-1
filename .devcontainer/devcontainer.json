@@ -1,5 +1,5 @@
 {
     "name": "Node.js Sample",
-    "image": "node",
-    "appPorts": [3000]
+    "image": "node:13-slim",
+    "appPort": [3000]
 }
