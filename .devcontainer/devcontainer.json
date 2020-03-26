@@ -1,5 +1,6 @@
 {
     "name": "Node.js Sample",
     "image": "node:13-slim",
-    "appPort": [3000]
+    "appPort": [3000],
+    "postCreateCommand": ""
 }
